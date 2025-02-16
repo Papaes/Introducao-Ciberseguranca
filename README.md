@@ -14,6 +14,10 @@ Este repositório contém um material introdutório sobre cibersegurança, abord
 
 ✅ Carreiras na cibersegurança: SOC Analyst, Pentester, DevSecOps e outros
 
+# 📑 Arquivo 
+
+PDF para Download: introdução ciberseguranca (1).pdf
+
 # 🎯 Objetivo
 
 fornecer um guia acessível e informativo para estudantes e entusiastas da cibersegurança, auxiliando na compreensão das ameaças digitais e das melhores práticas de proteção.
